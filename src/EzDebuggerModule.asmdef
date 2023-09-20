@@ -1,0 +1,16 @@
+{
+    "name": "ProtoEzDebugger",
+    "rootNamespace": "ProtoEzDebugger",
+    "references": [
+        "Leopotam.EcsProto"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
